@@ -12,7 +12,7 @@
   hasPower: true
   firingMoveFract: 0.75
   shootDuration: 600
-  shootType: meltdownLaser
+  shootType: "meltdownLaser"
   powerUse: 20
   coolantMultiplier: 1
   requirements: [
