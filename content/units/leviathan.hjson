@@ -1,4 +1,4 @@
-  type: flyingUnit
+  type: flying
 	name: Leviathan
   description: It's a boss unit equiped with an amplified S.E.M.M.G with extreme range.
   drag: 0.15
