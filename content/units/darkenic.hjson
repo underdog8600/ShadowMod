@@ -1,5 +1,5 @@
 
-  type: groundUnit
+  type: mech
   name: Darkenic
   description: A weak unit.
   maxVelocity: 1
