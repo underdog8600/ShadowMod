@@ -1,4 +1,4 @@
-type: GroundUnit
+type: mech
 name: Shocker
 description: a strong unit that shock the enemys with powerfulls lightnings
 speed: 0.2
