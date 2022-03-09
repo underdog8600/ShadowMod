@@ -1,4 +1,4 @@
-  type: FlyingUnit
+  type: flying
  name: Void Ghoul
  description: A ghoul with strong armor
  drag: 0.05
