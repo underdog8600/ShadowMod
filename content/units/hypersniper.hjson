@@ -1,4 +1,4 @@
-  type: flyingUnit
+  type: flying
  name: Hyper Shooter
  description: Sniper Unit.
  drag: 0.1
