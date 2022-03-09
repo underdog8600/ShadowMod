@@ -1,6 +1,6 @@
 name: VoidCator
 description: A erradicator upgraded with void parts.
-type: GroundUnit
+type: mech
 health: 36000
 speed: 0.1
 maxVelocity: 0.6
