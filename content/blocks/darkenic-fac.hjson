@@ -14,7 +14,7 @@ consumes: {
   }
 }
 category: units
-research: dagger-factory
+research: mech-pad
 requirements: [
   copper/80
   lead/60
