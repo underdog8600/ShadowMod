@@ -4,7 +4,7 @@ type: itemTurret
 health: 600
 size: 2
 reload: 30
-ammoUseEffect: shellEjectBig
+ammoUseEffect: "shellEjectBig"
 inaccuracy: 0
 rotatespeed: 99
 shootCone: 1
