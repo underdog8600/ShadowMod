@@ -1,4 +1,4 @@
-  type: FlyingUnit
+  type: flying
  name: Voider
  description: A void wraith with high speeds and low damage missiles.
  drag: 0.05
