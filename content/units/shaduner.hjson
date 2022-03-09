@@ -1,4 +1,4 @@
-type: GroundUnit
+type: mech
 name: Shaduner
 description: A little well-armored unit that fires shadum frag-rockets.
 health: 500
