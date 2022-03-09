@@ -1,5 +1,5 @@
 {
-	type: Revenant
+	type: flying
 	name: Shadow Array
 	description: A unit with surge repeater
    drag: 0.15
